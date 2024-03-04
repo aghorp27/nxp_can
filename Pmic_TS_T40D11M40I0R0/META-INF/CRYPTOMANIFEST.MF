@@ -1,0 +1,106 @@
+
+Name: generate_PB/src/CDD_Pmic_PBcfg.c
+SignatureKeyID: Freescale
+SignatureKeyProviderID: dreisoft.tresos.launcher2.CryptoKeyProvider
+SignatureAlgorithmID: DSA
+Signature: 11313377426554077983683447636548065968153060377701795155241
+ 4580049319787279401018851986197025163435623873068640
+
+Name: generate_PB/CDD_Pmic_VersionCheck_Inc.m
+SignatureKeyID: Freescale
+SignatureKeyProviderID: dreisoft.tresos.launcher2.CryptoKeyProvider
+SignatureAlgorithmID: DSA
+Signature: 11313377424001190683068521203546696612821533331265701979761
+ 0709391769162648745337594238620573969088378207586207
+
+Name: config/Pmic.xdm
+SignatureKeyID: Freescale
+SignatureKeyProviderID: dreisoft.tresos.launcher2.CryptoKeyProvider
+SignatureAlgorithmID: DSA
+Signature: 11313377426521307276867070468672812814731762229157483757736
+ 3994613368240474861518469027756530430383928433810285
+
+Name: generate_PC/CDD_Pmic_VersionCheck_Src.m
+SignatureKeyID: Freescale
+SignatureKeyProviderID: dreisoft.tresos.launcher2.CryptoKeyProvider
+SignatureAlgorithmID: DSA
+Signature: 11313377424790573940021195195161257409258686984212629713026
+ 6013494820271111445947264081089438857179510792185333
+
+Name: generate_PB/CDD_Pmic_RegOperations.m
+SignatureKeyID: Freescale
+SignatureKeyProviderID: dreisoft.tresos.launcher2.CryptoKeyProvider
+SignatureAlgorithmID: DSA
+Signature: 11313377421952953862306489074848777309783639010664627011962
+ 8715318321147236655513039058648718383059332696964858
+
+Name: generate_swcd/swcd/Pmic_Bswmd.arxml
+SignatureKeyID: Freescale
+SignatureKeyProviderID: dreisoft.tresos.launcher2.CryptoKeyProvider
+SignatureAlgorithmID: DSA
+Signature: 11313377422437432754758421402358019967334910451216585036688
+ 9010770964920777384139892323144113633237053424954255
+
+Name: generate_PC/CDD_Pmic_RegOperations.m
+SignatureKeyID: Freescale
+SignatureKeyProviderID: dreisoft.tresos.launcher2.CryptoKeyProvider
+SignatureAlgorithmID: DSA
+Signature: 11313377425932816281193076093855163176588730295414432096576
+ 7036057548948614314588697351767802256273147829982148
+
+Name: generate_PC/include/CDD_Pmic_Cfg.h
+SignatureKeyID: Freescale
+SignatureKeyProviderID: dreisoft.tresos.launcher2.CryptoKeyProvider
+SignatureAlgorithmID: DSA
+Signature: 11313377425880807915916815978935116814551863756932584277912
+ 0884981897469292002408916255607758340822064854320510
+
+Name: generate_PB/include/CDD_Pmic_PBcfg.h
+SignatureKeyID: Freescale
+SignatureKeyProviderID: dreisoft.tresos.launcher2.CryptoKeyProvider
+SignatureAlgorithmID: DSA
+Signature: 11313377425264799390318711877587859871622541850890175895894
+ 2449320889551854017238902527599329903444279650868945
+
+Name: generate_PB/include/CDD_Pmic_Cfg.h
+SignatureKeyID: Freescale
+SignatureKeyProviderID: dreisoft.tresos.launcher2.CryptoKeyProvider
+SignatureAlgorithmID: DSA
+Signature: 11313377423244817885580073786739492490363893254355136125121
+ 1410538520030717015197617416151282944186449896970544
+
+Name: generate_PB/CDD_Pmic_VersionCheck_Src_PB.m
+SignatureKeyID: Freescale
+SignatureKeyProviderID: dreisoft.tresos.launcher2.CryptoKeyProvider
+SignatureAlgorithmID: DSA
+Signature: 28964594752240132246972695179150549091689788264107785866600
+ 604596636198237476304449215487962381512509767373934742
+
+Name: generate_PC/src/CDD_Pmic_Cfg.c
+SignatureKeyID: Freescale
+SignatureKeyProviderID: dreisoft.tresos.launcher2.CryptoKeyProvider
+SignatureAlgorithmID: DSA
+Signature: 11313377424731828733868479949876465962175536667952490646691
+ 2722603640854365155837696137300947261732325002045787
+
+Name: generate_PB/src/CDD_Pmic_Cfg.c
+SignatureKeyID: Freescale
+SignatureKeyProviderID: dreisoft.tresos.launcher2.CryptoKeyProvider
+SignatureAlgorithmID: DSA
+Signature: 28964594748337138051370005254932339548528592677012901062991
+ 754072221406090397501579484203537588192185151160930939
+
+Name: generate_PB/CDD_Pmic_VersionCheck_Src.m
+SignatureKeyID: Freescale
+SignatureKeyProviderID: dreisoft.tresos.launcher2.CryptoKeyProvider
+SignatureAlgorithmID: DSA
+Signature: 11313377423900377579726195373446026237697092459888235811662
+ 9940782238874688831411465634755857536719730904080548
+
+Name: generate_PC/CDD_Pmic_VersionCheck_Inc.m
+SignatureKeyID: Freescale
+SignatureKeyProviderID: dreisoft.tresos.launcher2.CryptoKeyProvider
+SignatureAlgorithmID: DSA
+Signature: 11313377423869414745290372790167725045624221862612856637712
+ 1075487643200457779369650322080403087452045303925436
+
