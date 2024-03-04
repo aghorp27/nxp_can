@@ -1,0 +1,50 @@
+
+Name: config/Base.xdm
+SignatureKeyID: Freescale
+SignatureKeyProviderID: dreisoft.tresos.launcher2.CryptoKeyProvider
+SignatureAlgorithmID: DSA
+Signature: 11313377422764884956148747289879720871002814858143054433952
+ 0237901428382530798817186283994639816264662721762997
+
+Name: generate_PC/src/OsIf_Cfg.c
+SignatureKeyID: Freescale
+SignatureKeyProviderID: dreisoft.tresos.launcher2.CryptoKeyProvider
+SignatureAlgorithmID: DSA
+Signature: 11313377422684651424329630594582139022167805355460908753207
+ 4228017651895804638290006554874314059118709401530195
+
+Name: generate_PC/include/modules.h
+SignatureKeyID: Freescale
+SignatureKeyProviderID: dreisoft.tresos.launcher2.CryptoKeyProvider
+SignatureAlgorithmID: DSA
+Signature: 11313377425076468107735587207484664439314330136265560804138
+ 1979351042741877584373171206803895071939537636281284
+
+Name: generate_PC/include/PlatformTypes.h
+SignatureKeyID: Freescale
+SignatureKeyProviderID: dreisoft.tresos.launcher2.CryptoKeyProvider
+SignatureAlgorithmID: DSA
+Signature: 11313377426872242622036763649291180115412792739988378281042
+ 1232636915329580490473638676693870093249640506718503
+
+Name: generate_swcd/swcd/Base_Bswmd.arxml
+SignatureKeyID: Freescale
+SignatureKeyProviderID: dreisoft.tresos.launcher2.CryptoKeyProvider
+SignatureAlgorithmID: DSA
+Signature: 28964594773971402107852895426960762293726406742192473353665
+ 382371899720233190963443213690264571606928701168649047
+
+Name: generate_PC/include/OsIf_ArchCfg.h
+SignatureKeyID: Freescale
+SignatureKeyProviderID: dreisoft.tresos.launcher2.CryptoKeyProvider
+SignatureAlgorithmID: DSA
+Signature: 28964594773974342149915500581016635947348120408491310449033
+ 436861295074782389306326285031188955025156005411497966
+
+Name: generate_PC/include/OsIf_Cfg.h
+SignatureKeyID: Freescale
+SignatureKeyProviderID: dreisoft.tresos.launcher2.CryptoKeyProvider
+SignatureAlgorithmID: DSA
+Signature: 28964594746577627039161359598532366682762183483451680395819
+ 278187885181049112712217811419058071670340336062954887
+
